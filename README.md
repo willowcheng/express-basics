@@ -1,5 +1,7 @@
 #Express Basics Demo Site
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/willowcheng/express-basics.svg)](https://greenkeeper.io/)
+
 This repo features an express app to serve as demo in the Express Basics course on Treehouse.
 
 ## How to use this repo
